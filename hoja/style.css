@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sub {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.informacion, .edu, .curso, .contac {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Estilo para los datos de contacto */
+h3 {
+    color: #333;
+    margin-top: 10px;
+}
+
+/* Estilo para los números de contacto y correos */
+p {
+    color: #444;
+    margin: 5px 0;
+}
